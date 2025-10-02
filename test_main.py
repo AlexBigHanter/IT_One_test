@@ -1,6 +1,7 @@
 import pytest
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+import allure
 
  #фикстра авторизации
 @pytest.fixture()
@@ -15,7 +16,10 @@ def authorization():
     yield browser
     browser.quit()
 
- # проверка нашего тавара что карточка отрывается, тест-кейс1
+
+# карточка товара, тест-кейс №3
+@allure.feature("товары")
+@allure.story('карточка товара')
 def test_product(authorization):
     product = authorization
     product.find_element(By.CSS_SELECTOR, "a[href='/products/1']").click()

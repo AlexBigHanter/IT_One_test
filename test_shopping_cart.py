@@ -2,8 +2,11 @@ import pytest
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from test_main import authorization
+import allure
 
-# проверка корины для товара, тест-кейс2
+# кнопка Корзина , тест-кейс №4
+@allure.feature("Раздел корзина")
+@allure.story('проверка кнопки Корзина')
 def test_cart(authorization):
     cart = authorization
     cart.find_element(By.CSS_SELECTOR, "button[onclick=\"location.href='/cart'\"]").click()

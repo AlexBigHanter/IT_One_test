@@ -6,6 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="091d4006-db11-41c7-8e2c-b8d73426d3de" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_admin_create.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_admin_create.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_exit.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_exit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_shopping_cart.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_shopping_cart.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +58,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python tests.Python tests for test_admin_create.test_admin_create">
+  <component name="RunManager" selected="Python tests.Python tests for test_admin.test_admin">
     <configuration name="Python tests for test_admin_create.test_admin_create" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="IT_One_test" />
       <option name="ENV_FILES" value="" />
@@ -136,8 +141,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_admin_create.test_admin_create" />
         <item itemvalue="Python tests.Python tests for test_admin.test_admin" />
+        <item itemvalue="Python tests.Python tests for test_admin_create.test_admin_create" />
         <item itemvalue="Python tests.Python tests for test_exit.test_exit" />
         <item itemvalue="Python tests.Python tests for test_shopping_cart.test_cart" />
         <item itemvalue="Python tests.Python tests for test_shopping_cart.test" />
@@ -162,7 +167,9 @@
       <workItem from="1759330365688" duration="9302000" />
       <workItem from="1759339752792" duration="530000" />
       <workItem from="1759340301535" duration="1642000" />
-      <workItem from="1759341969048" duration="1286000" />
+      <workItem from="1759341969048" duration="1604000" />
+      <workItem from="1759424370904" duration="4174000" />
+      <workItem from="1759428712966" duration="1946000" />
     </task>
     <servers />
   </component>
@@ -170,6 +177,6 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/IT_One_test$.coverage" NAME=" Coverage Results" MODIFIED="1759338429932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/IT_One_test$.coverage" NAME=" Coverage Results" MODIFIED="1759429513243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
