@@ -6,7 +6,7 @@ import allure
 
 # кнопка Корзина , тест-кейс №4
 @allure.feature("Раздел корзина")
-@allure.story('проверка кнопки Корзина')
+@allure.story('проверка кнопка Корзина')
 def test_cart(authorization):
     cart = authorization
     cart.find_element(By.CSS_SELECTOR, "button[onclick=\"location.href='/cart'\"]").click()

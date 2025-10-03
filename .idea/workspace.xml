@@ -6,10 +6,25 @@
   <component name="ChangeListManager">
     <list default="true" id="091d4006-db11-41c7-8e2c-b8d73426d3de" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_admin_create.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_admin_create.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_exit.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_exit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/02bc1ac6-3d54-42bf-b4e7-ab40ab501c68-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/0b514cce-b809-429e-aa7c-ab445d2bd53b-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/3c5517c1-82bc-4ee7-9efa-e5645e8194e8-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/3d0f08d7-87c5-4cff-8a3a-bbc96f114760-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/4c59ec61-4ac7-4d2c-a8af-77f128a79a4e-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/61566503-8119-4d17-bb0a-e8aa8f9bcd90-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/6bd4c9f8-4be3-4cc2-be48-03d9735f3ce4-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/7bf4913b-dcb6-47b4-be6e-dca6924ff9ff-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/88bf6fb9-69db-45b6-b7a2-955fa8504e8a-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/99114d79-3f57-4388-8ef3-ca33c7fca44e-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/aaf94f11-293b-44ae-9021-15ba53a5e17e-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/ae5db34d-4682-456c-b85b-e867d7db98c2-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/b8132086-b4df-4c11-9a66-86534c01f442-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/c5ce901c-8507-40ca-936b-6321ac04d14a-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/d085eeb8-d2db-4623-8ba2-53099ddb20a3-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/fc4bb047-0ca3-4d7d-904c-75b0b60de8d8-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/fcc19387-bc22-46cc-a14a-95679d4e881b-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/fcc8a689-6568-43e6-8439-da4cda5838a3-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/fd6df01f-503a-4575-b453-ccc163ce6da3-container.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/test_shopping_cart.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_shopping_cart.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -169,7 +184,9 @@
       <workItem from="1759340301535" duration="1642000" />
       <workItem from="1759341969048" duration="1604000" />
       <workItem from="1759424370904" duration="4174000" />
-      <workItem from="1759428712966" duration="1946000" />
+      <workItem from="1759428712966" duration="2356000" />
+      <workItem from="1759432338439" duration="3526000" />
+      <workItem from="1759519744790" duration="301000" />
     </task>
     <servers />
   </component>
